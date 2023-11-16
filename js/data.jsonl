@@ -1,0 +1,13 @@
+[
+    {
+        images: ["","","",""],
+        name: "",
+        description: "",
+        price: "",
+        category: {
+            main: "men | woman | kids",
+            sub: "pant | shirt",
+        }
+    },
+    
+]
